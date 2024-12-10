@@ -19,3 +19,4 @@ else:
 
 if result is not None:
     print("Результат:", result)
+
